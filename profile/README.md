@@ -4,6 +4,7 @@
 
 Welcome to **X Collaborators**, a vibrant community of developers, learners, and enthusiasts passionate about building cutting-edge solutions in **AI/ML**, **Python**, **JavaScript**, and beyond! Our mission is to foster collaboration, innovation, and learning in the open-source ecosystem.
 
+Join Here ... [Add a comment Here for Joining](https://github.com/XCollab/.github/issues/1)
 ---
 
 ## 🚀 **Our Mission**  
