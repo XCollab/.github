@@ -1,4 +1,4 @@
-![](1.png)
+![](image.png)
 
 # **X Collaborators**  
 
