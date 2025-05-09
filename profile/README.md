@@ -2,9 +2,11 @@
 
 🌟 **Open Source, Together** 🌟
 
-Welcome to **X Collab** — a growing community of developers, learners, and contributors passionate about building useful and impactful tools, especially in **AI/ML** and **Python**.
+Welcome to **X Collab** — a community-driven open-source space focused on practical **AI/ML development**.
+This repo includes code and tools for working with **quantized** and **fine-tuned models**, plus training scripts and deployment guides.
+Contributions and collaboration are always welcome!
 
-We believe in learning by doing, helping each other, and contributing back to the open-source world.
+We’re a growing group of developers, learners, and open-source contributors working on meaningful tools and projects — especially in **AI/ML** and **Python**.
 
 [👉 Join the community](https://x-collab-invite.streamlit.app/)
 
@@ -20,7 +22,8 @@ We believe in learning by doing, helping each other, and contributing back to th
 
 ## 🔍 **Our Focus**
 
-* **AI & Machine Learning**: Fine-tuning models, building tools, and experimenting with ideas.
+* **AI & Machine Learning**: Fine-tuning models, quantization, deployment, and tool-building.
+* **Python Projects**: From automation scripts to larger apps and data tools.
 * **Open Collaboration**: Welcoming contributors of all levels to work together.
 
 ---
