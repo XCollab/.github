@@ -1,6 +1,6 @@
-![](image.png)
 
-# **X Collaborators**  
+
+# **X Collab**  
 
 🌟 **Empowering Open Source Innovation Together** 🌟  
 
