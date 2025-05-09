@@ -4,7 +4,7 @@
 
 🌟 **Empowering Open Source Innovation Together** 🌟  
 
-Welcome to **X Collaborators**, a vibrant community of developers, learners, and enthusiasts passionate about building cutting-edge solutions in **AI/ML**, **Python**, **JavaScript**, and beyond! Our mission is to foster collaboration, innovation, and learning in the open-source ecosystem.
+Welcome to **X Collab**, a vibrant community of developers, learners, and enthusiasts passionate about building cutting-edge solutions in **AI/ML**, **Python**, **JavaScript**, and beyond! Our mission is to foster collaboration, innovation, and learning in the open-source ecosystem.
 
 Join Community Here ... [Join Here ...](https://x-collab-invite.streamlit.app/)
 ---
